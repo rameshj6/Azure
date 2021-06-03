@@ -1,3 +1,3 @@
-az group create 
-    --name ramesh-rg1 
+az group create \
+    --name ramesh-rg1 \
     --location eastus
